@@ -1,0 +1,27 @@
+{
+  "name": "full-backend-zero",
+  "version": "1.0.0",
+  "description": "Hoi dan IT full backend zero",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuanHoang05/udemi-fullstask-bachEnd.git"
+  },
+  "keywords": [
+    "nodej",
+    "react"
+  ],
+  "author": "hoi dan IT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuanHoang05/udemi-fullstask-bachEnd/issues"
+  },
+  "homepage": "https://github.com/QuanHoang05/udemi-fullstask-bachEnd#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
